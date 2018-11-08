@@ -1,0 +1,1220 @@
+[
+    {
+        "id": 0,
+        "firstname": "Susan",
+        "lastname": "Mckee",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "susanmckee@overfork.com",
+        "phone": "+49 (887) 498-2368",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 38079,
+                "created": "2015-06-22T10:37:12"
+            },
+            {
+                "id": 1,
+                "carTitle": "BMW 2ER",
+                "amount": 88074,
+                "created": "2016-01-02T05:54:18"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "firstname": "Janna",
+        "lastname": "Baxter",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "jannabaxter@overfork.com",
+        "phone": "+49 (862) 402-2941",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "BMW 2ER",
+                "amount": 13674,
+                "created": "2011-06-24T12:16:30"
+            },
+            {
+                "id": 1,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 12832,
+                "created": "2010-10-04T09:29:40"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstname": "Gaines",
+        "lastname": "Baker",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "gainesbaker@overfork.com",
+        "phone": "+49 (928) 551-3186",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 49736,
+                "created": "2011-12-07T11:12:55"
+            },
+            {
+                "id": 1,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 11225,
+                "created": "2012-04-25T10:53:26"
+            },
+            {
+                "id": 2,
+                "carTitle": "VW GOLF",
+                "amount": 49445,
+                "created": "2013-08-04T11:48:35"
+            },
+            {
+                "id": 3,
+                "carTitle": "VW GOLF",
+                "amount": 73980,
+                "created": "2015-11-10T05:44:46"
+            },
+            {
+                "id": 4,
+                "carTitle": "VW GOLF",
+                "amount": 96463,
+                "created": "2016-05-25T04:11:09"
+            },
+            {
+                "id": 5,
+                "carTitle": "FORD FOCUS",
+                "amount": 54412,
+                "created": "2011-05-16T02:22:21"
+            },
+            {
+                "id": 6,
+                "carTitle": "OPEL ASTRA",
+                "amount": 56991,
+                "created": "2017-02-20T01:35:19"
+            },
+            {
+                "id": 7,
+                "carTitle": "FORD FOCUS",
+                "amount": 50847,
+                "created": "2010-01-03T03:42:27"
+            },
+            {
+                "id": 8,
+                "carTitle": "FORD FOCUS",
+                "amount": 51024,
+                "created": "2017-08-17T04:33:28"
+            },
+            {
+                "id": 9,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 69830,
+                "created": "2010-01-19T01:49:23"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "firstname": "Tate",
+        "lastname": "Sears",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "tatesears@overfork.com",
+        "phone": "+49 (836) 494-3487",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 44532,
+                "created": "2013-04-16T11:35:09"
+            },
+            {
+                "id": 1,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 32040,
+                "created": "2016-11-08T02:51:08"
+            },
+            {
+                "id": 2,
+                "carTitle": "BMW 2ER",
+                "amount": 23302,
+                "created": "2013-08-25T06:54:12"
+            },
+            {
+                "id": 3,
+                "carTitle": "OPEL ASTRA",
+                "amount": 37851,
+                "created": "2017-02-06T01:37:57"
+            },
+            {
+                "id": 4,
+                "carTitle": "VW GOLF",
+                "amount": 88478,
+                "created": "2015-07-30T01:34:14"
+            },
+            {
+                "id": 5,
+                "carTitle": "FIAT 500",
+                "amount": 43468,
+                "created": "2013-07-24T07:28:11"
+            },
+            {
+                "id": 6,
+                "carTitle": "AUDI A4",
+                "amount": 27191,
+                "created": "2015-03-10T10:21:51"
+            },
+            {
+                "id": 7,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 28000,
+                "created": "2016-02-16T04:58:26"
+            },
+            {
+                "id": 8,
+                "carTitle": "FORD FOCUS",
+                "amount": 43706,
+                "created": "2015-10-13T10:11:23"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "firstname": "Claire",
+        "lastname": "Britt",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "clairebritt@overfork.com",
+        "phone": "+49 (900) 460-3161",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 58102,
+                "created": "2016-08-19T10:56:21"
+            },
+            {
+                "id": 1,
+                "carTitle": "OPEL ASTRA",
+                "amount": 94552,
+                "created": "2013-12-06T08:57:57"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 14277,
+                "created": "2010-04-28T06:52:53"
+            },
+            {
+                "id": 3,
+                "carTitle": "FIAT 500",
+                "amount": 77663,
+                "created": "2017-07-18T04:46:56"
+            },
+            {
+                "id": 4,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 32473,
+                "created": "2012-05-15T06:12:35"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "firstname": "Reese",
+        "lastname": "Kramer",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "reesekramer@overfork.com",
+        "phone": "+49 (800) 444-2886",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 11913,
+                "created": "2013-01-28T04:10:07"
+            },
+            {
+                "id": 1,
+                "carTitle": "OPEL ASTRA",
+                "amount": 73579,
+                "created": "2013-07-07T02:31:30"
+            },
+            {
+                "id": 2,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 61436,
+                "created": "2016-03-22T07:50:41"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 61810,
+                "created": "2015-08-13T03:37:54"
+            },
+            {
+                "id": 4,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 10522,
+                "created": "2013-03-16T06:33:58"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "firstname": "Evelyn",
+        "lastname": "Pickett",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "evelynpickett@overfork.com",
+        "phone": "+49 (825) 583-3500",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 13888,
+                "created": "2011-03-11T03:51:20"
+            },
+            {
+                "id": 1,
+                "carTitle": "VW GOLF",
+                "amount": 58729,
+                "created": "2012-01-13T07:12:55"
+            },
+            {
+                "id": 2,
+                "carTitle": "OPEL ASTRA",
+                "amount": 19755,
+                "created": "2016-06-07T03:29:13"
+            },
+            {
+                "id": 3,
+                "carTitle": "FORD FOCUS",
+                "amount": 30482,
+                "created": "2012-09-07T09:20:17"
+            },
+            {
+                "id": 4,
+                "carTitle": "VW GOLF",
+                "amount": 86997,
+                "created": "2011-11-20T10:19:49"
+            },
+            {
+                "id": 5,
+                "carTitle": "AUDI A4",
+                "amount": 21889,
+                "created": "2012-02-27T02:57:45"
+            },
+            {
+                "id": 6,
+                "carTitle": "OPEL ASTRA",
+                "amount": 94680,
+                "created": "2017-07-27T01:40:15"
+            },
+            {
+                "id": 7,
+                "carTitle": "OPEL ASTRA",
+                "amount": 91150,
+                "created": "2017-08-22T12:57:28"
+            },
+            {
+                "id": 8,
+                "carTitle": "FORD FOCUS",
+                "amount": 69115,
+                "created": "2010-03-20T03:57:29"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "firstname": "Deena",
+        "lastname": "Carson",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "deenacarson@overfork.com",
+        "phone": "+49 (886) 547-2228",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "BMW 2ER",
+                "amount": 48826,
+                "created": "2010-04-20T12:27:16"
+            },
+            {
+                "id": 1,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 64161,
+                "created": "2011-02-12T12:59:41"
+            },
+            {
+                "id": 2,
+                "carTitle": "OPEL ASTRA",
+                "amount": 63064,
+                "created": "2014-03-11T11:25:24"
+            },
+            {
+                "id": 3,
+                "carTitle": "FORD FOCUS",
+                "amount": 13045,
+                "created": "2012-06-21T05:32:01"
+            },
+            {
+                "id": 4,
+                "carTitle": "OPEL ASTRA",
+                "amount": 92018,
+                "created": "2013-01-13T05:16:15"
+            },
+            {
+                "id": 5,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 62522,
+                "created": "2015-03-11T12:29:38"
+            },
+            {
+                "id": 6,
+                "carTitle": "AUDI A4",
+                "amount": 38200,
+                "created": "2017-07-10T08:56:14"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "firstname": "Hurst",
+        "lastname": "Coffey",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "hurstcoffey@overfork.com",
+        "phone": "+49 (968) 471-3197",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 53983,
+                "created": "2012-10-18T08:08:34"
+            },
+            {
+                "id": 1,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 22540,
+                "created": "2010-02-25T03:31:00"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 27260,
+                "created": "2013-05-20T11:21:55"
+            },
+            {
+                "id": 3,
+                "carTitle": "FIAT 500",
+                "amount": 99467,
+                "created": "2013-11-14T11:20:09"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "firstname": "Chase",
+        "lastname": "Mcneil",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "chasemcneil@overfork.com",
+        "phone": "+49 (948) 563-2316",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 46833,
+                "created": "2013-11-03T12:07:32"
+            },
+            {
+                "id": 1,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 34274,
+                "created": "2015-10-18T05:50:47"
+            },
+            {
+                "id": 2,
+                "carTitle": "BMW 2ER",
+                "amount": 99864,
+                "created": "2010-10-17T03:59:18"
+            },
+            {
+                "id": 3,
+                "carTitle": "OPEL ASTRA",
+                "amount": 86937,
+                "created": "2012-01-15T08:06:10"
+            },
+            {
+                "id": 4,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 27240,
+                "created": "2012-05-03T06:21:15"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "firstname": "Ford",
+        "lastname": "Petty",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "fordpetty@overfork.com",
+        "phone": "+49 (868) 474-3281",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "BMW 2ER",
+                "amount": 25713,
+                "created": "2016-01-20T10:58:12"
+            },
+            {
+                "id": 1,
+                "carTitle": "FORD FOCUS",
+                "amount": 11252,
+                "created": "2012-01-30T07:44:44"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "firstname": "Talley",
+        "lastname": "Reese",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "talleyreese@overfork.com",
+        "phone": "+49 (921) 571-2953",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 90229,
+                "created": "2012-09-06T02:41:07"
+            },
+            {
+                "id": 1,
+                "carTitle": "AUDI A4",
+                "amount": 73628,
+                "created": "2014-05-19T08:59:41"
+            },
+            {
+                "id": 2,
+                "carTitle": "FORD FOCUS",
+                "amount": 28761,
+                "created": "2013-05-30T02:31:48"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "firstname": "Bradley",
+        "lastname": "Adams",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "bradleyadams@overfork.com",
+        "phone": "+49 (800) 438-2317",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "OPEL ASTRA",
+                "amount": 31832,
+                "created": "2016-09-05T10:08:50"
+            },
+            {
+                "id": 1,
+                "carTitle": "AUDI A4",
+                "amount": 44308,
+                "created": "2010-04-11T07:04:05"
+            },
+            {
+                "id": 2,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 46534,
+                "created": "2017-08-11T07:26:50"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 87288,
+                "created": "2015-10-16T01:47:45"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "firstname": "Cherry",
+        "lastname": "Snyder",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "cherrysnyder@overfork.com",
+        "phone": "+49 (991) 597-2035",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "BMW 2ER",
+                "amount": 13098,
+                "created": "2013-12-01T10:18:52"
+            },
+            {
+                "id": 1,
+                "carTitle": "AUDI A4",
+                "amount": 31703,
+                "created": "2015-02-17T03:27:20"
+            },
+            {
+                "id": 2,
+                "carTitle": "FORD FOCUS",
+                "amount": 84118,
+                "created": "2015-11-08T04:27:10"
+            },
+            {
+                "id": 3,
+                "carTitle": "VW GOLF",
+                "amount": 25778,
+                "created": "2015-06-18T04:18:28"
+            },
+            {
+                "id": 4,
+                "carTitle": "OPEL ASTRA",
+                "amount": 99414,
+                "created": "2016-08-05T02:38:14"
+            },
+            {
+                "id": 5,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 22349,
+                "created": "2011-03-20T12:54:29"
+            },
+            {
+                "id": 6,
+                "carTitle": "OPEL ASTRA",
+                "amount": 62230,
+                "created": "2014-06-05T10:04:54"
+            },
+            {
+                "id": 7,
+                "carTitle": "FIAT 500",
+                "amount": 60315,
+                "created": "2014-11-03T06:53:45"
+            },
+            {
+                "id": 8,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 52802,
+                "created": "2016-06-13T01:18:44"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "firstname": "Gilliam",
+        "lastname": "Snider",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "gilliamsnider@overfork.com",
+        "phone": "+49 (912) 456-3472",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "OPEL ASTRA",
+                "amount": 26563,
+                "created": "2016-06-11T05:39:01"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "firstname": "Tillman",
+        "lastname": "Allison",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "tillmanallison@overfork.com",
+        "phone": "+49 (871) 594-3740",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FIAT 500",
+                "amount": 11496,
+                "created": "2015-09-29T12:45:29"
+            },
+            {
+                "id": 1,
+                "carTitle": "FORD FOCUS",
+                "amount": 45519,
+                "created": "2011-03-06T08:35:22"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 11662,
+                "created": "2015-11-26T06:52:36"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "firstname": "Manuela",
+        "lastname": "Graham",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "manuelagraham@overfork.com",
+        "phone": "+49 (977) 527-3461",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "OPEL ASTRA",
+                "amount": 37241,
+                "created": "2015-03-15T12:53:36"
+            },
+            {
+                "id": 1,
+                "carTitle": "AUDI A4",
+                "amount": 88135,
+                "created": "2012-12-03T01:34:18"
+            },
+            {
+                "id": 2,
+                "carTitle": "OPEL ASTRA",
+                "amount": 18326,
+                "created": "2017-04-17T03:24:38"
+            },
+            {
+                "id": 3,
+                "carTitle": "AUDI A4",
+                "amount": 71475,
+                "created": "2013-12-14T08:26:34"
+            },
+            {
+                "id": 4,
+                "carTitle": "AUDI A4",
+                "amount": 66832,
+                "created": "2014-06-25T01:08:55"
+            },
+            {
+                "id": 5,
+                "carTitle": "OPEL ASTRA",
+                "amount": 44129,
+                "created": "2011-02-05T03:33:49"
+            },
+            {
+                "id": 6,
+                "carTitle": "OPEL ASTRA",
+                "amount": 44972,
+                "created": "2013-09-01T10:00:43"
+            },
+            {
+                "id": 7,
+                "carTitle": "FIAT 500",
+                "amount": 45368,
+                "created": "2013-05-16T02:39:38"
+            },
+            {
+                "id": 8,
+                "carTitle": "BMW 2ER",
+                "amount": 85289,
+                "created": "2012-05-23T10:18:35"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "firstname": "Sexton",
+        "lastname": "Hayes",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "sextonhayes@overfork.com",
+        "phone": "+49 (982) 524-2813",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 32103,
+                "created": "2011-09-14T06:47:24"
+            },
+            {
+                "id": 1,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 92182,
+                "created": "2015-05-19T09:01:35"
+            },
+            {
+                "id": 2,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 82923,
+                "created": "2014-12-24T02:41:50"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 41636,
+                "created": "2010-05-10T06:17:45"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "firstname": "Carla",
+        "lastname": "Rhodes",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "carlarhodes@overfork.com",
+        "phone": "+49 (957) 420-3641",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 78805,
+                "created": "2013-05-23T09:12:43"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "firstname": "Wong",
+        "lastname": "Silva",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "wongsilva@overfork.com",
+        "phone": "+49 (913) 585-3598",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FIAT 500",
+                "amount": 42937,
+                "created": "2016-02-05T03:12:03"
+            },
+            {
+                "id": 1,
+                "carTitle": "BMW 2ER",
+                "amount": 17573,
+                "created": "2011-10-07T01:17:55"
+            },
+            {
+                "id": 2,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 82256,
+                "created": "2017-03-27T03:10:01"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "firstname": "James",
+        "lastname": "Gamble",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "jamesgamble@overfork.com",
+        "phone": "+49 (839) 455-2678",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "VW GOLF",
+                "amount": 87101,
+                "created": "2013-06-15T02:05:16"
+            },
+            {
+                "id": 1,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 15243,
+                "created": "2012-02-28T04:23:43"
+            },
+            {
+                "id": 2,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 41837,
+                "created": "2014-01-04T06:20:03"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 61324,
+                "created": "2013-10-13T02:28:11"
+            },
+            {
+                "id": 4,
+                "carTitle": "AUDI A4",
+                "amount": 57342,
+                "created": "2011-03-10T03:55:15"
+            },
+            {
+                "id": 5,
+                "carTitle": "FORD FOCUS",
+                "amount": 60406,
+                "created": "2016-07-21T11:53:33"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "firstname": "Hampton",
+        "lastname": "Bass",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "hamptonbass@overfork.com",
+        "phone": "+49 (931) 524-2758",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FORD FOCUS",
+                "amount": 82424,
+                "created": "2015-08-31T06:52:28"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "firstname": "Dyer",
+        "lastname": "Hatfield",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "dyerhatfield@overfork.com",
+        "phone": "+49 (926) 540-3461",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 69777,
+                "created": "2017-03-03T08:56:36"
+            },
+            {
+                "id": 1,
+                "carTitle": "OPEL ASTRA",
+                "amount": 73154,
+                "created": "2017-04-14T01:47:19"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 94034,
+                "created": "2017-02-21T01:31:37"
+            },
+            {
+                "id": 3,
+                "carTitle": "FORD FOCUS",
+                "amount": 16060,
+                "created": "2014-12-09T10:28:48"
+            },
+            {
+                "id": 4,
+                "carTitle": "FORD FOCUS",
+                "amount": 17693,
+                "created": "2011-03-12T05:09:24"
+            },
+            {
+                "id": 5,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 51728,
+                "created": "2010-02-02T11:49:46"
+            },
+            {
+                "id": 6,
+                "carTitle": "VW GOLF",
+                "amount": 14625,
+                "created": "2016-05-07T04:19:43"
+            },
+            {
+                "id": 7,
+                "carTitle": "AUDI A4",
+                "amount": 45605,
+                "created": "2010-05-05T06:27:21"
+            },
+            {
+                "id": 8,
+                "carTitle": "OPEL ASTRA",
+                "amount": 42795,
+                "created": "2014-04-16T12:52:28"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "firstname": "Miles",
+        "lastname": "Mcconnell",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "milesmcconnell@overfork.com",
+        "phone": "+49 (888) 550-2979",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FORD FOCUS",
+                "amount": 90186,
+                "created": "2017-02-14T09:25:38"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "firstname": "Janie",
+        "lastname": "Talley",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "janietalley@overfork.com",
+        "phone": "+49 (901) 475-3913",
+        "hasPremium": true,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 45705,
+                "created": "2012-04-30T08:39:53"
+            },
+            {
+                "id": 1,
+                "carTitle": "FIAT 500",
+                "amount": 20061,
+                "created": "2017-02-08T01:50:34"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 38856,
+                "created": "2015-10-22T10:36:08"
+            },
+            {
+                "id": 3,
+                "carTitle": "VW GOLF",
+                "amount": 65472,
+                "created": "2015-10-14T11:47:42"
+            },
+            {
+                "id": 4,
+                "carTitle": "OPEL ASTRA",
+                "amount": 14627,
+                "created": "2017-04-12T09:40:33"
+            },
+            {
+                "id": 5,
+                "carTitle": "FORD FOCUS",
+                "amount": 70500,
+                "created": "2016-01-03T01:10:24"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "firstname": "Dorthy",
+        "lastname": "Downs",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "dorthydowns@overfork.com",
+        "phone": "+49 (803) 573-2014",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FIAT 500",
+                "amount": 62543,
+                "created": "2016-01-05T09:12:49"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "firstname": "Maureen",
+        "lastname": "Myers",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "maureenmyers@overfork.com",
+        "phone": "+49 (908) 553-2231",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 32807,
+                "created": "2014-01-14T08:55:08"
+            },
+            {
+                "id": 1,
+                "carTitle": "VW GOLF",
+                "amount": 61422,
+                "created": "2013-09-25T03:35:34"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 65175,
+                "created": "2017-08-03T09:09:07"
+            },
+            {
+                "id": 3,
+                "carTitle": "AUDI A4",
+                "amount": 92977,
+                "created": "2012-01-14T09:06:05"
+            },
+            {
+                "id": 4,
+                "carTitle": "AUDI A4",
+                "amount": 53691,
+                "created": "2013-02-26T05:57:33"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "firstname": "Adriana",
+        "lastname": "Cooper",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "adrianacooper@overfork.com",
+        "phone": "+49 (928) 414-2235",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "FIAT 500",
+                "amount": 72137,
+                "created": "2012-02-02T02:04:44"
+            },
+            {
+                "id": 1,
+                "carTitle": "OPEL ASTRA",
+                "amount": 77761,
+                "created": "2012-09-27T03:55:08"
+            },
+            {
+                "id": 2,
+                "carTitle": "OPEL ASTRA",
+                "amount": 67832,
+                "created": "2016-04-08T05:09:18"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 11791,
+                "created": "2012-01-22T10:33:13"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "firstname": "Davenport",
+        "lastname": "Kelley",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "davenportkelley@overfork.com",
+        "phone": "+49 (820) 497-2469",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "AUDI A4",
+                "amount": 52033,
+                "created": "2010-01-29T09:27:47"
+            },
+            {
+                "id": 1,
+                "carTitle": "FORD FOCUS",
+                "amount": 26676,
+                "created": "2012-05-16T06:19:16"
+            },
+            {
+                "id": 2,
+                "carTitle": "AUDI A4",
+                "amount": 42749,
+                "created": "2013-09-15T12:23:33"
+            },
+            {
+                "id": 3,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 64805,
+                "created": "2010-03-17T04:23:12"
+            },
+            {
+                "id": 4,
+                "carTitle": "OPEL ASTRA",
+                "amount": 69868,
+                "created": "2011-07-26T07:59:18"
+            },
+            {
+                "id": 5,
+                "carTitle": "FORD FOCUS",
+                "amount": 36468,
+                "created": "2017-07-28T05:26:52"
+            },
+            {
+                "id": 6,
+                "carTitle": "OPEL ASTRA",
+                "amount": 51257,
+                "created": "2015-06-24T04:56:29"
+            },
+            {
+                "id": 7,
+                "carTitle": "VW GOLF",
+                "amount": 81264,
+                "created": "2014-08-22T01:56:07"
+            },
+            {
+                "id": 8,
+                "carTitle": "OPEL ASTRA",
+                "amount": 28775,
+                "created": "2014-05-22T01:36:22"
+            },
+            {
+                "id": 9,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 61822,
+                "created": "2013-01-22T11:17:53"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "firstname": "Everett",
+        "lastname": "Byrd",
+        "avatarUrl": "http://placehold.it/64x64",
+        "email": "everettbyrd@overfork.com",
+        "phone": "+49 (987) 404-2349",
+        "hasPremium": false,
+        "bids": [
+            {
+                "id": 0,
+                "carTitle": "SKODA OCTAVIA",
+                "amount": 44886,
+                "created": "2010-01-01T08:06:01"
+            },
+            {
+                "id": 1,
+                "carTitle": "FORD FOCUS",
+                "amount": 29287,
+                "created": "2010-02-28T09:55:56"
+            },
+            {
+                "id": 2,
+                "carTitle": "MERCEDES C-KLASSE",
+                "amount": 23859,
+                "created": "2011-11-13T04:31:17"
+            },
+            {
+                "id": 3,
+                "carTitle": "VW GOLF",
+                "amount": 27714,
+                "created": "2012-05-10T07:10:02"
+            },
+            {
+                "id": 4,
+                "carTitle": "FORD FOCUS",
+                "amount": 17851,
+                "created": "2016-02-14T05:09:07"
+            },
+            {
+                "id": 5,
+                "carTitle": "FIAT 500",
+                "amount": 24163,
+                "created": "2014-05-03T04:19:01"
+            },
+            {
+                "id": 6,
+                "carTitle": "VW GOLF",
+                "amount": 40180,
+                "created": "2013-01-08T07:44:00"
+            },
+            {
+                "id": 7,
+                "carTitle": "AUDI A4",
+                "amount": 58647,
+                "created": "2011-06-29T12:29:12"
+            }
+        ]
+    }
+]
